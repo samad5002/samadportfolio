@@ -961,8 +961,12 @@ section {
     to { transform: translateY(0); opacity: 1; }
 }
 body {
-  background-color: #121212;
-  color: #f0f0f0;
+  background: linear-gradient(to right, #cceeff, #ffffff);
+}
+section {
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 12px;
+  padding: 1rem;
 }
 
 
