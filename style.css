@@ -961,7 +961,9 @@ section {
     to { transform: translateY(0); opacity: 1; }
 }
 body {
-  background: linear-gradient(135deg, #e0f7fa, #ffffff);
+  background-color: #121212;
+  color: #f0f0f0;
 }
+
 
 
