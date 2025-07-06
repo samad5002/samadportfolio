@@ -961,7 +961,7 @@ section {
     to { transform: translateY(0); opacity: 1; }
 }
 body {
-  background-color: #e0f2f1; /* teal-tinted white */
+  background: linear-gradient(135deg, #e0f7fa, #ffffff);
 }
 
 
